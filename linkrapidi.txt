@@ -1,0 +1,5 @@
+# Link alla mia repo
+https://raw.githubusercontent.com/ABBA3124/AbbaTv/refs/heads/main/abbaopen.m3u
+
+# link corto per comodità
+https://tinyurl.com/wtp3pc2e
